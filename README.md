@@ -27,5 +27,7 @@ bash insall.sh
 
 export TELEGRAM_BOT_TOKEN = 'paste_your_bot_token_here'
 
+bash verify.sh
+
 python3 bot.py
 
