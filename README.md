@@ -21,7 +21,7 @@ A Telegram bot that encrypts and decrypts files using XOR encryption with compre
 ```bash
 git clone https://github.com/M0bsyy/M0bsy_Encryptor.py.git
 
-cd M0bsy-Encryptor.py
+cd M0bsy_Encryptor.py
 
 bash insall.sh
 
