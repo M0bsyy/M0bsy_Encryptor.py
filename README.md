@@ -19,5 +19,13 @@ A Telegram bot that encrypts and decrypts files using XOR encryption with compre
 
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram-encryption-bot.git
-cd telegram-encryption-bot
+git clone https://github.com/M0bsyy/M0bsy_Encryptor.py.git
+
+cd M0bsy-Encryptor.py
+
+bash insall.sh
+
+export TELEGRAM_BOT_TOKEN = 'paste_your_bot_token_here'
+
+python3 bot.py
+
